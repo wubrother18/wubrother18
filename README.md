@@ -1,15 +1,8 @@
 ## Hey 👋, I'm Wubrother18!  
   
 
-<a href="https://github.com/wubrother18" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/沛澄-吳-a89b30416" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/沛澄-吳-a89b30416) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lsst811118@gmail.com) 
 
 ### Glad to see you here!  
 I’ve been an app developer since 2021. Beginning my journey in Android dev with Java, I am now focused on crafting cross-platform experiences using Flutter. Creating user-friendly applications is my job and my passion. Just a developer trying to build a better world, one commit at a time.  
@@ -19,28 +12,15 @@ I’ve been an app developer since 2021. Beginning my journey in Android dev wit
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
--  I’m currently working on... a secret project. 😏  
-  
+<img src="https://wubrother18.github.io/images/linggen-hero.png" align="right" width="45%" style="margin-left: 20px;" />
 
-- 🌱I am currently learning SDD and gaining practical experience with Kotlin.  
-  
-
+- I’m currently working on... a secret project. 😏  
+- 🌱 I am currently learning SDD and gaining practical experience with Kotlin.  
 - ❓ Ask me about anything related to Modern App and related technologies  
-  
-
 - ⚡ Fun fact: I often try to do some tool-based side projects, but almost all of them end up turning into games.  
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://wubrother18.github.io/images/linggen-hero.png" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+<br clear="right" />
 
 <br/>  
 
@@ -63,17 +43,25 @@ I’ve been an app developer since 2021. Beginning my journey in Android dev wit
 
 <br/>  
 
+# 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=wubrother18&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="display: inline-block; vertical-align: top; width: 38%;" />
+  <img src="https://github-readme-stats.shion.dev/api?username=wubrother18&theme=default&hide_border=false&include_all_commits=true&count_private=true" style="display: inline-block; vertical-align: top; width: 48%; margin-right: 1%;" />
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=wubrother18&show_icons=true&count_private=true&hide_border=true" align="left" />
+![](https://streak-stats.demolab.com/?user=wubrother18&theme=default&hide_border=false)<br/>
 
-</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wubrother18&hide_border=true&layout=compact" align="left" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=wubrother18&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
-</td></tr></table>  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=wubrother18&limit=5&theme=default&combine_all_yearly_contributions=true)
+
 
 <br/>  
 
@@ -82,9 +70,4 @@ I’ve been an app developer since 2021. Beginning my journey in Android dev wit
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=wubrother18&&style=flat-square)  
-  
 
-<br/>  
-
-
-<br />
